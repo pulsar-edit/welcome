@@ -1,3 +1,5 @@
+### This Repo is now Archived under Pulsar-Edit because it is bundled with the editor. 
+
 ### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/welcome), please direct all issues and pull requests there in the future!
 
 ---
